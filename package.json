@@ -1,0 +1,29 @@
+{
+  "name": "mdcolorize",
+  "version": "1.0.0",
+  "description": "Simple Sass (SCSS) function for fast usage material design colors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PixelT/mdcolorize.git"
+  },
+  "author": "Krzysztof Kula",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PixelT/mdcolorize/issues"
+  },
+  "homepage": "https://github.com/PixelT/mdcolorize#readme",
+  "keywords": [
+    "css",
+    "sass",
+    "scss",
+    "colors",
+    "palette",
+    "material",
+    "design",
+    "material design"
+  ]
+}
