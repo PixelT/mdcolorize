@@ -1,6 +1,6 @@
 {
   "name": "mdcolorize",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple Sass (SCSS) function for fast usage material design colors",
   "main": "index.js",
   "scripts": {
